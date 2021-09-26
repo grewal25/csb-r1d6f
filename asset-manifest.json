@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://grewal25.github.io/csb-r1d6f/static/css/main.6998d482.chunk.css",
+    "main.js": "https://grewal25.github.io/csb-r1d6f/static/js/main.6db26424.chunk.js",
+    "main.js.map": "https://grewal25.github.io/csb-r1d6f/static/js/main.6db26424.chunk.js.map",
+    "runtime-main.js": "https://grewal25.github.io/csb-r1d6f/static/js/runtime-main.77311f51.js",
+    "runtime-main.js.map": "https://grewal25.github.io/csb-r1d6f/static/js/runtime-main.77311f51.js.map",
+    "static/js/2.fd565417.chunk.js": "https://grewal25.github.io/csb-r1d6f/static/js/2.fd565417.chunk.js",
+    "static/js/2.fd565417.chunk.js.map": "https://grewal25.github.io/csb-r1d6f/static/js/2.fd565417.chunk.js.map",
+    "index.html": "https://grewal25.github.io/csb-r1d6f/index.html",
+    "static/css/main.6998d482.chunk.css.map": "https://grewal25.github.io/csb-r1d6f/static/css/main.6998d482.chunk.css.map",
+    "static/js/2.fd565417.chunk.js.LICENSE.txt": "https://grewal25.github.io/csb-r1d6f/static/js/2.fd565417.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77311f51.js",
+    "static/js/2.fd565417.chunk.js",
+    "static/css/main.6998d482.chunk.css",
+    "static/js/main.6db26424.chunk.js"
+  ]
+}
